@@ -52,7 +52,7 @@ library OpenCV, termasuk interaksi mouse event secara real-time.
 ---
 
 ## Video Presentasi
-👉 [Link YouTube]
+👉 [https://youtu.be/XX1Im1jui_g?si=h50UhP6PUq5FXQnx]
 
 ---
 
